@@ -58,9 +58,6 @@ public class TestCase1 {
 	  System.out.println("beforeSuite");
   }
 
-  @AfterSuite
-  public void afterSuite() {
-	  System.out.println("AfterSuite");
-  }
+  
 
 }
